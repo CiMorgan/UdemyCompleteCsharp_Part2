@@ -1,0 +1,15 @@
+C:\Users\camor\OneDrive\Documents\Computer Science\Udemy\UdemyCompleteCsharp\UdemyCompleteCsharp17\UdemyCompleteCsharp17\bin\Debug\net6.0\UdemyCompleteCsharp17.exe
+C:\Users\camor\OneDrive\Documents\Computer Science\Udemy\UdemyCompleteCsharp\UdemyCompleteCsharp17\UdemyCompleteCsharp17\bin\Debug\net6.0\UdemyCompleteCsharp17.deps.json
+C:\Users\camor\OneDrive\Documents\Computer Science\Udemy\UdemyCompleteCsharp\UdemyCompleteCsharp17\UdemyCompleteCsharp17\bin\Debug\net6.0\UdemyCompleteCsharp17.runtimeconfig.json
+C:\Users\camor\OneDrive\Documents\Computer Science\Udemy\UdemyCompleteCsharp\UdemyCompleteCsharp17\UdemyCompleteCsharp17\bin\Debug\net6.0\UdemyCompleteCsharp17.dll
+C:\Users\camor\OneDrive\Documents\Computer Science\Udemy\UdemyCompleteCsharp\UdemyCompleteCsharp17\UdemyCompleteCsharp17\bin\Debug\net6.0\ref\UdemyCompleteCsharp17.dll
+C:\Users\camor\OneDrive\Documents\Computer Science\Udemy\UdemyCompleteCsharp\UdemyCompleteCsharp17\UdemyCompleteCsharp17\bin\Debug\net6.0\UdemyCompleteCsharp17.pdb
+C:\Users\camor\OneDrive\Documents\Computer Science\Udemy\UdemyCompleteCsharp\UdemyCompleteCsharp17\UdemyCompleteCsharp17\obj\Debug\net6.0\UdemyCompleteCsharp17.csproj.AssemblyReference.cache
+C:\Users\camor\OneDrive\Documents\Computer Science\Udemy\UdemyCompleteCsharp\UdemyCompleteCsharp17\UdemyCompleteCsharp17\obj\Debug\net6.0\UdemyCompleteCsharp17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camor\OneDrive\Documents\Computer Science\Udemy\UdemyCompleteCsharp\UdemyCompleteCsharp17\UdemyCompleteCsharp17\obj\Debug\net6.0\UdemyCompleteCsharp17.AssemblyInfoInputs.cache
+C:\Users\camor\OneDrive\Documents\Computer Science\Udemy\UdemyCompleteCsharp\UdemyCompleteCsharp17\UdemyCompleteCsharp17\obj\Debug\net6.0\UdemyCompleteCsharp17.AssemblyInfo.cs
+C:\Users\camor\OneDrive\Documents\Computer Science\Udemy\UdemyCompleteCsharp\UdemyCompleteCsharp17\UdemyCompleteCsharp17\obj\Debug\net6.0\UdemyCompleteCsharp17.csproj.CoreCompileInputs.cache
+C:\Users\camor\OneDrive\Documents\Computer Science\Udemy\UdemyCompleteCsharp\UdemyCompleteCsharp17\UdemyCompleteCsharp17\obj\Debug\net6.0\UdemyCompleteCsharp17.dll
+C:\Users\camor\OneDrive\Documents\Computer Science\Udemy\UdemyCompleteCsharp\UdemyCompleteCsharp17\UdemyCompleteCsharp17\obj\Debug\net6.0\ref\UdemyCompleteCsharp17.dll
+C:\Users\camor\OneDrive\Documents\Computer Science\Udemy\UdemyCompleteCsharp\UdemyCompleteCsharp17\UdemyCompleteCsharp17\obj\Debug\net6.0\UdemyCompleteCsharp17.pdb
+C:\Users\camor\OneDrive\Documents\Computer Science\Udemy\UdemyCompleteCsharp\UdemyCompleteCsharp17\UdemyCompleteCsharp17\obj\Debug\net6.0\UdemyCompleteCsharp17.genruntimeconfig.cache
