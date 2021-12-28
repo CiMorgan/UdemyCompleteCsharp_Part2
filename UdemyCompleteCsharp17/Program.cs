@@ -5,4 +5,5 @@ Car.Start();
 Car.Drive();
 Car.Stop();
 
+Console.WriteLine(Nums.MultiplyWithExtra(1, 2));
 
