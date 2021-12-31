@@ -11,7 +11,18 @@ using UdemyCompleteCsharp17;
 //obj.Print();
 //int myInt2 = obj.myInt;
 
-Poly1 obj = new Poly2();
-obj.Example();   //Poly1's method - base method not overridden in derived class if virtual / override not added
+//Poly1 obj = new Poly2();
+//obj.Example();   //Poly1's method - base method not overridden in derived class if virtual / override not added
+
+static void ExampleMethod(ExampleClass ex)
+{
+
+}
+ExampleClass exampleClass = new ExampleClass();
+DerivedExampleClass derivedExampleClass = new DerivedExampleClass();
+ExampleMethod(exampleClass);
+
+
+
 
 
