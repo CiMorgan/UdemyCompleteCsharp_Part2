@@ -7,8 +7,9 @@ using UdemyCompleteCsharp17;
 
 //Console.WriteLine(Nums.MultiplyWithExtra(1, 2));
 
-Class1 class1 = new Class1();
-class1.Print();
+Class2 obj = new Class2();
+obj.Print();
+int myInt2 = obj.myInt;
 
 
 

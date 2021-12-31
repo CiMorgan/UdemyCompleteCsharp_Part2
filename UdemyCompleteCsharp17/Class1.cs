@@ -8,10 +8,16 @@ namespace UdemyCompleteCsharp17
 {
     public class Class1
     {
+        public int myInt;
         public void Print()
         {
             Console.WriteLine("Hello World");
         }
+        
+    }
+
+    public class Class2 : Class1
+    {
         
     }
 }
