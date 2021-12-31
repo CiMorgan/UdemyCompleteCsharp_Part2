@@ -12,11 +12,6 @@ namespace UdemyCompleteCsharp17
         {
             Console.WriteLine("Hello World");
         }
+        
     }
-    public class Class2 : Class1
-    {
-        Class2 obj = new Class2();
-        obj.Print();
-
-}
 }
