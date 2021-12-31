@@ -7,9 +7,11 @@ using UdemyCompleteCsharp17;
 
 //Console.WriteLine(Nums.MultiplyWithExtra(1, 2));
 
-Class2 obj = new Class2();
-obj.Print();
-int myInt2 = obj.myInt;
+//Polymorph obj = new Polymorph();
+//obj.Print();
+//int myInt2 = obj.myInt;
 
+Poly1 obj = new Poly2();
+obj.Example();   //Poly1's method - base method not overridden in derived class if virtual / override not added
 
 
