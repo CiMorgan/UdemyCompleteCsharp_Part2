@@ -14,13 +14,20 @@ using UdemyCompleteCsharp17;
 //Poly1 obj = new Poly2();
 //obj.Example();   //Poly1's method - base method not overridden in derived class if virtual / override not added
 
-static void ExampleMethod(ExampleClass ex)
-{
+//static void ExampleMethod(ExampleClass ex)
+//{
 
-}
-ExampleClass exampleClass = new ExampleClass();
-DerivedExampleClass derivedExampleClass = new DerivedExampleClass();
-ExampleMethod(exampleClass);
+//}
+//ExampleClass exampleClass = new ExampleClass();
+//DerivedExampleClass derivedExampleClass = new DerivedExampleClass();
+//ExampleMethod(exampleClass);
+
+PartialClass part = new PartialClass();
+part.Method1();
+part.Method2();
+part.Method3();
+
+
 
 
 
