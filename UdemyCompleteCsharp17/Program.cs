@@ -22,10 +22,21 @@ using UdemyCompleteCsharp17;
 //DerivedExampleClass derivedExampleClass = new DerivedExampleClass();
 //ExampleMethod(exampleClass);
 
-PartialClass part = new PartialClass();
-part.Method1();
-part.Method2();
-part.Method3();
+//PartialClass part = new PartialClass();
+//part.Method1();
+//part.Method2();
+//part.Method3();
+
+ExampleClassWithIndexer exampleClassWithIndexer = new ExampleClassWithIndexer();
+exampleClassWithIndexer[0] = "Hi!";
+exampleClassWithIndexer[1] = 2;
+exampleClassWithIndexer[2] = true;
+exampleClassWithIndexer[3] = 1.0f;
+
+for (int i=0; i < 4; i++)
+{
+    Console.WriteLine(exampleClassWithIndexer[i]);
+}
 
 
 
