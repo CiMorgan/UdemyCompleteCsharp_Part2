@@ -8,7 +8,7 @@ namespace UdemyCompleteCsharp17
 {
     public class Ex1
     {
-        public void Print()
+        public virtual void Print()
         {
             Console.WriteLine("Hello World");
         }
@@ -16,7 +16,7 @@ namespace UdemyCompleteCsharp17
 
     public class Ex2 : Ex1
     {
-        public void Print()
+        public override void Print()
         {
             Console.WriteLine("Hi There World");
         }
