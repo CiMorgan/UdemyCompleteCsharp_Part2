@@ -27,16 +27,19 @@ using UdemyCompleteCsharp17;
 //part.Method2();
 //part.Method3();
 
-ExampleClassWithIndexer exampleClassWithIndexer = new ExampleClassWithIndexer();
-exampleClassWithIndexer[0] = "Hi!";
-exampleClassWithIndexer[1] = 2;
-exampleClassWithIndexer[2] = true;
-exampleClassWithIndexer[3] = 1.0f;
+//ExampleClassWithIndexer exampleClassWithIndexer = new ExampleClassWithIndexer();
+//exampleClassWithIndexer[0] = "Hi!";
+//exampleClassWithIndexer[1] = 2;
+//exampleClassWithIndexer[2] = true;
+//exampleClassWithIndexer[3] = 1.0f;
 
-for (int i=0; i < 4; i++)
-{
-    Console.WriteLine(exampleClassWithIndexer[i]);
-}
+//for (int i=0; i < 4; i++)
+//{
+//    Console.WriteLine(exampleClassWithIndexer[i]);
+//}
+
+Ex1 obj = new Ex2();
+obj.Print();
 
 
 
